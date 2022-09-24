@@ -1,0 +1,16 @@
+{
+  "name": "assignment4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "grading.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.6.3",
+    "jsdom": "^16.4.0"
+  },
+  "dependencies": {}
+}
