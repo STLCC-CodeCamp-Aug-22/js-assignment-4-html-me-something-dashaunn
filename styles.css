@@ -1,1 +1,60 @@
 /* Write your CSS here! */
+html {
+    background-color: #E2E2E2;
+}
+
+#mainHeading {
+margin: auto;
+padding: auto;
+text-align: center;
+}
+
+#navlinks {
+    list-style-type: none;
+    margin: auto;
+    padding: 0pt;
+}
+
+body {
+margin: 8px;
+display: block;
+}
+
+p {
+    margin: auto;
+    border: 1px solid green;
+    background-color: lightgrey;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.funParagraph {
+    color: green;
+}
+
+#link {
+    display: block;
+    text-align: center;
+}
+
+figcaption {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+#footlinks {
+    text-align: center;
+    list-style-type: none;
+}
